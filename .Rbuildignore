@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^ezdates\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
