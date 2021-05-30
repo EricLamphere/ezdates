@@ -1,4 +1,3 @@
-
 .onAttach <- function(...) {
   packageStartupMessage(
     emo::ji("beers"),
